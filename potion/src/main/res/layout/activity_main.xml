@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.enseval.potion.Button
+                android:id="@+id/btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_primary"
+                app:buttonType="pill" />
+
+            <com.enseval.potion.Button
+                android:id="@+id/btn2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_secondary"
+                app:buttonClass="secondary"
+                app:buttonShadow="elevated"
+                app:buttonType="square" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_success"
+                app:buttonClass="success" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_danger"
+                app:buttonClass="danger" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_warning"
+                app:buttonClass="warning" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_info"
+                app:buttonClass="info" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_light"
+                app:buttonClass="light" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_dark"
+                app:buttonClass="dark" />
+
+            <com.enseval.potion.Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text="@string/title_link"
+                app:buttonClass="link" />
+
+        </LinearLayout>
+
+
+    </HorizontalScrollView>
+
+    <com.enseval.potion.TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_primary"
+        app:textClass="h6" />
+
+    <com.enseval.potion.TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_primary"
+        app:textClass="caption"
+        app:textColor="@color/colorEpmPink01"
+        app:textSize="22sp"
+        app:textStyle="italic" />
+
+    <com.enseval.potion.EditText
+        android:id="@+id/edit_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:endIconMode="clearText"
+        app:inputType="text"
+        app:label="Nama"
+        app:labelColor="@color/colorEpmDanger"
+        app:labelSize="16sp"
+        app:layoutType="pill"
+        app:singleLine="true"
+        app:textColor="@color/colorEpmGreen01" />
+
+
+    <com.enseval.potion.Container
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:outlineColor="@color/colorEpmPrimary">
+
+        <com.enseval.potion.Spinner
+            android:id="@+id/spinner_ku"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:dropdownColor="@color/colorEpmPink01" />
+    </com.enseval.potion.Container>
+
+    <com.enseval.potion.CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="   Check box"
+        android:textColor="@color/colorEpmDanger" />
+
+    <com.enseval.potion.ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:checked="true" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_gravity="center" android:orientation="horizontal">
+
+        <com.enseval.potion.RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Button 1  "
+            android:layout_gravity="center" />
+
+        <com.enseval.potion.RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Button 2"
+            android:layout_gravity="center" />
+    </RadioGroup>
+
+    <!--    <ProgressBar-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_gravity="center"-->
+    <!--        android:progressDrawable="@drawable/fa_regular_eye"/>-->
+
+    <com.enseval.potion.ProgressBar
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        />
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/vd_vector" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector1" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector2" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector3" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector4" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector5" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector6" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector7" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector8" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector9" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector10" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector11" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector12" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector13" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector14" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector15" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector16" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector17" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector18" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector19" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector20" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector21" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector22" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector23" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector24" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector25" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector26" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector27" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector28" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector29" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector20" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector31" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector32" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector33" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector34" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector35" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector36" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector37" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector38" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector39" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector40" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector41" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector42" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector43" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector44" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector45" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector46" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector47" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector48" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector49" android:duration="200" />
+    <item android:drawable="@drawable/vd_vector50" android:duration="200" />
+</animation-list>

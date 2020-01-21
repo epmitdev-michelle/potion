@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_padding_tb">10dp</dimen>
+    <dimen name="btn_padding_lr">15dp</dimen>
+    <dimen name="btn_rounded_corner_radius">5dp</dimen>
+    <dimen name="btn_pill_corner_radius">25dp</dimen>
+    <dimen name="btn_stroke_weight">1dp</dimen>
+    <dimen name="btn_elevation">5dp</dimen>
+
+    <dimen name="text_size_default">14sp</dimen>
+    <dimen name="text_size_h1">96sp</dimen>
+    <dimen name="text_size_h2">60sp</dimen>
+    <dimen name="text_size_h3">48sp</dimen>
+    <dimen name="text_size_h4">34sp</dimen>
+    <dimen name="text_size_h5">24sp</dimen>
+    <dimen name="text_size_h6">20sp</dimen>
+    <dimen name="text_size_subtitle1">16sp</dimen>
+    <dimen name="text_size_subtitle2">14sp</dimen>
+    <dimen name="text_size_body1">16sp</dimen>
+    <dimen name="text_size_body2">14sp</dimen>
+    <dimen name="text_size_caption">12sp</dimen>
+
+    <dimen name="edit_text_label_margin">5dp</dimen>
+    <dimen name="edit_text_layout_padding">10dp</dimen>
+    <dimen name="edit_text_drawable_size">20dp</dimen>
+    <dimen name="edit_text_drawable_layout_min_height">10dp</dimen>
+    <dimen name="edit_text_drawable_margin">5dp</dimen>
+    <dimen name="edit_text_margin">5dp</dimen>
+    <dimen name="edit_text_suffix_margin">10dp</dimen>
+
+    <dimen name="dialog_drawable_size">80dp</dimen>
+    <dimen name="dialog_drawable_margin">20dp</dimen>
+    <dimen name="dialog_message_padding">20dp</dimen>
+    <dimen name="dialog_button_margin">10dp</dimen>
+    <dimen name="dialog_button_text_size">15sp</dimen>
+
+    <dimen name="progress_width">120dp</dimen>
+    <dimen name="progress_message_margin">5dp</dimen>
+
+    <dimen name="spinner_vertical_offset">48dp</dimen>
+    <dimen name="spinner_min_height">40dp</dimen>
+    <dimen name="spinner_text_padding">10dp</dimen>
+    <dimen name="spinner_text_size">15sp</dimen>
+
+    <dimen name="toast_layout_margin">10dp</dimen>
+    <dimen name="toast_card_corner_radius">5dp</dimen>
+    <dimen name="toast_elevation">5dp</dimen>
+    <dimen name="toast_padding">10dp</dimen>
+</resources>

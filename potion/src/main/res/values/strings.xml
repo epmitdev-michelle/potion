@@ -1,0 +1,20 @@
+<resources>
+    <string name="title_primary">Primary</string>
+    <string name="title_secondary">Secondary</string>
+    <string name="title_success">Success</string>
+    <string name="title_danger">Danger</string>
+    <string name="title_warning">Warning</string>
+    <string name="title_info">Info</string>
+    <string name="title_light">Light</string>
+    <string name="title_dark">Dark</string>
+    <string name="title_default">Default</string>
+    <string name="title_disable">Disable</string>
+    <string name="title_link">Link</string>
+
+    <string name="default_progress_message">Loading...</string>
+    <string name="default_text_ok">OK</string>
+    <string name="default_text_cancel">Cancel</string>
+    <string name="default_content_description">Drawable</string>
+    <string name="default_text_yes">Yes</string>
+    <string name="default_text_no">No</string>
+</resources>

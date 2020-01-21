@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24B24C</color>
+    <color name="colorPrimaryDark">#0B8D45</color>
+    <color name="colorAccent">#007BFF</color>
+
+    <color name="colorText">#212529</color>
+    <color name="colorEditText">#818182</color>
+    <color name="colorHintEditText">#AFAFAF</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorEpmGreen01">#24B24C</color>
+    <color name="colorEpmGreen02">#0B8D45</color>
+
+    <color name="colorEpmBlue01">#5FBFF9</color>
+    <color name="colorEpmBlue02">#78E3FD</color>
+    <color name="colorEpmDarkBlue01">#004499</color>
+    <color name="colorEpmDarkBlue02">#002F6B</color>
+    <color name="colorEpmTosca01">#36BC9B</color>
+    <color name="colorEpmTosca02">#209281</color>
+    <color name="colorEpmPink01">#FF6692</color>
+    <color name="colorEpmPink02">#B34766</color>
+    <color name="colorEpmOrange01">#F68013</color>
+    <color name="colorEpmOrange02">#BD5200</color>
+    <color name="colorEpmYellow01">#FBCC04</color>
+    <color name="colorEpmYellow02">#C39C00</color>
+
+    <color name="colorEpmPrimary">#007BFF</color>
+    <color name="colorEpmSecondary">#8A7090</color>
+    <color name="colorEpmSuccess">#28A745</color>
+    <color name="colorEpmDanger">#DC3545</color>
+    <color name="colorEpmWarning">#FFC107</color>
+    <color name="colorEpmInfo">#17A2B8</color>
+    <color name="colorEpmLight">#F8F9FA</color>
+    <color name="colorEpmDark">#343A40</color>
+    <color name="colorEpmDisable">#E0E0E0</color>
+
+    <color name="colorEpmPrimarySoft">#CCE5FF</color>
+    <color name="colorEpmSecondarySoft">#e2e3e5</color>
+    <color name="colorEpmSuccessSoft">#d4edda</color>
+    <color name="colorEpmDangerSoft">#f8d7da</color>
+    <color name="colorEpmWarningSoft">#FFF3CD</color>
+    <color name="colorEpmInfoSoft">#d1ecf1</color>
+    <color name="colorEpmLightSoft">#fefefe</color>
+    <color name="colorEpmDarkSoft">#d6d8d9</color>
+
+    <color name="colorEpmPrimaryAlertText">#004085</color>
+    <color name="colorEpmSecondaryAlertText">#383d41</color>
+    <color name="colorEpmSuccessAlertText">#155724</color>
+    <color name="colorEpmDangerAlertText">#721c24</color>
+    <color name="colorEpmWarningAlertText">#856404</color>
+    <color name="colorEpmInfoAlertText">#0c5460</color>
+    <color name="colorEpmLightAlertText">#818182</color>
+    <color name="colorEpmDarkAlertText">#1b1e21</color>
+    <color name="colorEpmDisableText">#8b8b8b</color>
+
+    <color name="colorBorder">#DEDEDE</color>
+    <color name="colorDarkWhite">#F8F9FA</color>
+</resources>
